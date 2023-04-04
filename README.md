@@ -1,3 +1,3 @@
 # dan0x0.com-v1
 
-Code for https://dan0x0.com
+Code for https://d4niel.net
