@@ -1,0 +1,118 @@
+body {
+	font-family: 'Roboto Mono', monospace;
+	display: table;
+	height: 100vh;
+	width: 100%;
+	margin: auto;
+	overflow: auto;
+	background: #000000
+}
+
+.dan {
+	display: table-cell;
+	vertical-align: middle;
+	text-align: center;
+	color: #fff
+}
+
+.dan h1 {
+	font-weight: 300;
+	line-height: 0px;
+}
+
+.dan a {
+	color: #fff
+}
+
+.profile {
+    	display: block-inline; 
+    	max-width: 175px;
+    	border-radius: 100px;
+    	max-height: 175px;
+	border: 3px solid #FFFFFF;
+	transition: transform .7s ease-in-out;
+}
+
+.profile:active {
+    transform: rotate(360deg);
+}
+
+.text-muted{
+	margin-top: 15px;
+    color:#777
+}
+
+a {
+    text-decoration: none;
+    color: #FCF7F8
+}
+
+a:visited {
+    color: #FCF7F8;
+}
+  
+.flex {
+display: -webkit-box;
+display: -moz-box;
+display: -ms-flexbox;
+display: -webkit-flex;
+display: flex;
+}
+
+.container {
+padding: 0;
+margin: 0;
+list-style: none;
+flex-direction: row;
+justify-content: center;
+}
+
+.name, .link {
+padding: 0;
+margin: 0 0.5em;
+list-style: none;
+}
+
+.name {
+margin-left: auto;
+text-align: left;
+}
+
+.link {
+margin-right: auto;
+text-align: right;
+}
+
+.name > li, .link > li {
+font-size: 1.1em;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
